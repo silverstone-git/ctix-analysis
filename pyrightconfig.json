@@ -1,0 +1,4 @@
+{
+  "venvPath": ".", // If your venv is a direct child like ./venv
+  "venv": "venv_ctix" // The name of your venv folder
+}

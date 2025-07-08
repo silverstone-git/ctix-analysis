@@ -1,0 +1,7 @@
+outputs/
+cert.pem
+.ipynb_checkpoints/
+.gradio/
+logs/
+venv_ctix/
+prompt.txt
